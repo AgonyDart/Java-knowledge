@@ -1,2 +1,2 @@
 # Java-knowledge
-ITM first semester, best description coming soon
+ITM first semester, better description coming soon
